@@ -12,18 +12,18 @@ h1 {
 
 }
 
+
+#slogan {
+
+	text-align: center;
+	color: teal;
+	font-style: italic;
+	font-size: 30px;
+}
+
 p,ul {
 	color: 000;
 	font-size: 20px;
 	text-align: left;
 }
 
-
-#slogan {
-
-	text-align:center;
-	color: teal;
-	font-style: italic;
-	font-size: 30px;
-	
-}

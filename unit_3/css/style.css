@@ -1,13 +1,26 @@
 body{
-	background-color: teal;
+	background-color: 83C3B6;
+	font-family: Arial, Serif; 
 }
 
-h1, p {
-	color: 000;
+h1 {
+	text-align: center;
+	color: teal;
+	font-size: 20;
 	font-weight: bold;
+	text-transform: uppercase;
+
 }
 
 #slogan{
-color: 000;
-	font-weight: bold;
+color: teal;
+	font-style: italic;
+	font-size: 20 
+	text-align:center;
+
+}
+
+p,ul {
+	color: 000;
+
 }

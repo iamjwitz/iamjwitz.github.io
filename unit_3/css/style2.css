@@ -12,7 +12,13 @@ h1 {
 
 }
 
-#slogan{
+p,ul {
+	color: 000;
+	font-size: 20px;
+}
+
+
+#slogan {
 
 	text-align:center;
 	color: teal;
@@ -21,8 +27,6 @@ h1 {
 	
 }
 
-p,ul {
-	color: 000;
-	font-size: 20px;
+
 
 }

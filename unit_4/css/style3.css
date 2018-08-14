@@ -1,27 +1,24 @@
-
-
-
 body{
 	background-color: #89C3B6;
-	
+	font-family: Arial, Serif; 
 }
 
 h1 {
-	
 	text-align: center;
 	color: teal;
 	font-size: 40px;
 	font-weight: bold;
 	text-transform: uppercase;
-	
+
 }
 
 
 #slogan {
+
 	text-align: center;
 	color: teal;
+	font-style: italic;
 	font-size: 30px;
-	
 }
 
 p,ul {
@@ -29,5 +26,6 @@ p,ul {
 	font-size: 20px;
 	text-align: left;
 	text-decoration: none;
-}
+
+
 

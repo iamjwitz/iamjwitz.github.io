@@ -27,14 +27,14 @@ h1 {
 }
 
 div{
-color: 000;
+	color: 000;
 	font-size: 20px;
 	text-decoration: none;
 	font-family: 'Crimson Text', serif;
 
-
+	width: 50%;
 	border: 2px solid black;
-	width: '50%';
+	
 	margin: auto;
 
 }

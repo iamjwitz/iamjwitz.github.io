@@ -6,15 +6,17 @@ header{
 	padding: 20px;
 }
 
-body{
-	background-color: #89C3B6;
-}
-
 asside{
 	background: rgba(150,215,200, 0.4);
 	padding: 20px;
 	
 }
+
+body{
+	background-color: #89C3B6;
+}
+
+
 
 h1 {
 	text-align: center;

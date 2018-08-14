@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Berkshire+Swash');
-
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
 
 body{
 	background-color: #89C3B6;
 }
 
 h1 {
-	font-family: 'Berkshire Swash', cursive;
+	font-family: 'Dancing Script', cursive;
 	text-align: center;
 	color: teal;
 	font-size: 40px;

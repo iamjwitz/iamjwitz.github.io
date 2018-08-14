@@ -7,11 +7,10 @@ body{
 }
 
 h1 {
-	font-family: 'Berkshire Swash', cursive;
 	text-align: center;
 	color: teal;
 	font-size: 40px;
-
+	font-family: 'Berkshire Swash', cursive;
 }
 
 #slogan {

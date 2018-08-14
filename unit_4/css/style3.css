@@ -1,10 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Berkshire+Swash);
-@import url(https://fonts.googleapis.com/css?family=Crimson+Text);
+
 
 
 body{
 	background-color: #89C3B6;
-	font-family: 'Berkshire Swash', cursive;
+	
 }
 
 h1 {
@@ -12,12 +11,13 @@ h1 {
 	text-align: center;
 	color: teal;
 	font-size: 40px;
+	font-weight: bold;
+	text-transform: uppercase;
 	
 }
 
 
 #slogan {
-	
 	text-align: center;
 	color: teal;
 	font-size: 30px;
@@ -26,8 +26,8 @@ h1 {
 
 p,ul {
 	color: 000;
-	text-align: left;
 	font-size: 20px;
-	
+	text-align: left;
+	text-decoration: none;
 }
 

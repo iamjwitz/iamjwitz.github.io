@@ -1,15 +1,16 @@
 @import url(https://fonts.googleapis.com/css?family=Berkshire+Swash);
 @import url(https://fonts.googleapis.com/css?family=Crimson+Text);
 
+header{
+	background: rgba(150,215,200, 0.3);
+	padding: 20px;
+}
 
 body{
 	background-color: #89C3B6;
 }
 
-header{
-	background: rgba(150,215,200, 0.3);
-	padding: 20px;
-}
+
 
 h1 {
 	text-align: center;

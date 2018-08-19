@@ -1,0 +1,38 @@
+@import url(https://fonts.googleapis.com/css?family=Berkshire+Swash);
+@import url(https://fonts.googleapis.com/css?family=Crimson+Text);
+
+
+body{
+	background-color: #89C3B6;
+}
+
+h1 {
+	font-family: 'Berkshire Swash', cursive;
+	text
+	text-align: center;
+	color: teal;
+	font-size: 40px;
+
+}
+
+#slogan {
+	text-align: center;
+	color: teal;
+	font-size: 30px;
+	font-family: 'Berkshire Swash', cursive;
+	font-style: italic;
+
+}
+ 
+
+p,ul {
+	color: 000;
+	font-size: 20px;
+	text-decoration: none;
+	font-family: 'Crimson Text', serif;
+
+	width: 500px;
+	border: 2px solid black;
+	margin: auto;
+
+}

@@ -1,18 +1,28 @@
 @import url(https://fonts.googleapis.com/css?family=Berkshire+Swash);
 @import url(https://fonts.googleapis.com/css?family=Crimson+Text);
 
+header{
+	background: rgba(150,215,200, 0.2);
+	padding: 20px;
+}
+
+asside{
+	background: rgba(150,215,200, 0.4);
+	padding: 20px;
+	
+}
 
 body{
 	background-color: #89C3B6;
 }
 
+
+
 h1 {
-	font-family: 'Berkshire Swash', cursive;
-	text
 	text-align: center;
 	color: teal;
 	font-size: 40px;
-
+	font-family: 'Berkshire Swash', cursive;
 }
 
 #slogan {
@@ -30,9 +40,5 @@ p,ul {
 	font-size: 20px;
 	text-decoration: none;
 	font-family: 'Crimson Text', serif;
-
-	width: 500px;
-	border: 2px solid black;
-	margin: auto;
-
 }
+

@@ -14,13 +14,13 @@ nav {
     padding: 20px;
 }
 
-aside {
+#picture, #about {
     background-color: #FFC675;
     border: 1px black solid;
     padding: 20px;
 }
 
-article {
+#article1 {
     background-color:  #E89C6C;
     border: 1px black solid;
     padding: 20px;
@@ -33,7 +33,7 @@ footer {
 }
 
 
-div,section {
+#wrapper,#recentpost {
     background-color: #FFE2B8;
     border: 1px black solid;
     padding: 20px;

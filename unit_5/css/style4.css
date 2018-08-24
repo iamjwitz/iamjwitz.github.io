@@ -2,9 +2,44 @@
 @import url(https://fonts.googleapis.com/css?family=Crimson+Text);
 
 
-body{
-	background-color: #89C3B6;
+header {
+    background-color: [enter color here];
+    border: 1px black solid;
+    padding: 20px;
 }
+
+nav {
+    background-color: [enter color here];
+    border: 1px black solid;
+    padding: 20px;
+}
+
+aside {
+    background-color: [enter color here];
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article {
+    background-color: [enter color here];
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+    background-color: [enter color here];
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
+div/section {
+    background-color: [enter color here];
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
 
 h1 {
 	font-family: 'Berkshire Swash', cursive;

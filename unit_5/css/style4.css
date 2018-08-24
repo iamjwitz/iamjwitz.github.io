@@ -22,6 +22,7 @@ nav {
 
 .article_img{
 	width: .2em
+	height: 100px;
 	background-color: #FFC675;
     border: 1px black solid;
     padding: 20px;

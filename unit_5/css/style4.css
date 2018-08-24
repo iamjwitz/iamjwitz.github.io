@@ -14,11 +14,19 @@ nav {
     padding: 20px;
 }
 
-.picture, #about {
+.profile, #about{
     background-color: #FFC675;
     border: 1px black solid;
     padding: 20px;
 }
+
+.article_img{
+	width: .2em
+	background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+}
+
 
 #article1 {
     background-color: #E89C6C;

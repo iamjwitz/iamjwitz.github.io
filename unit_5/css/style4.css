@@ -14,7 +14,7 @@ nav {
     padding: 20px;
 }
 
-#picture, #about {
+.picture, #about {
     background-color: #FFC675;
     border: 1px black solid;
     padding: 20px;
@@ -33,7 +33,7 @@ footer {
 }
 
 
-#wrapper, #recentpost {
+.wrapper, .postsnippet {
     background-color: #FFE2B8;
     border: 1px black solid;
     padding: 20px;

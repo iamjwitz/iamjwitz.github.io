@@ -3,38 +3,38 @@
 
 
 header {
-    background-color: [enter color here];
+    background-color: #FFED74;
     border: 1px black solid;
     padding: 20px;
 }
 
 nav {
-    background-color: [enter color here];
+    background-color: #E8C66A;
     border: 1px black solid;
     padding: 20px;
 }
 
 aside {
-    background-color: [enter color here];
+    background-color: #FFC675;
     border: 1px black solid;
     padding: 20px;
 }
 
 article {
-    background-color: [enter color here];
+    background-color:  #E89C6C;
     border: 1px black solid;
     padding: 20px;
 }
 
 footer {
-    background-color: [enter color here];
+    background-color: #FF957E;
     border: 1px black solid;
     padding: 20px;
 }
 
 
 div/section {
-    background-color: [enter color here];
+    background-color: #FFE2B8;
     border: 1px black solid;
     padding: 20px;
 }

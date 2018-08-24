@@ -20,12 +20,10 @@ nav {
     padding: 20px;
 }
 
-.article_img{
+img.article_img{
 	height: 100px;
 	width: 50%;
-	background-color: #FFC675;
-    border: 1px black solid;
-    padding: 20px;
+
 }
 
 

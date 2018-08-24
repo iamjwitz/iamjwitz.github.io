@@ -20,12 +20,6 @@ nav {
     padding: 20px;
 }
 
-img.article_img{
-	height: .5em;
-	width: .auto;
-
-}
-
 
 #article1 {
     background-color: #E89C6C;
@@ -33,6 +27,10 @@ img.article_img{
     padding: 20px;
 }
 
+img.article_img{
+	height: .8em;
+	width: .5em;
+}
 footer {
     background-color: #FF957E;
     border: 1px black solid;

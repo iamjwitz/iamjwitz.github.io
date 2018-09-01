@@ -43,8 +43,8 @@ body{
     background-color: #E89C6C;
     border: 1px black solid;
     width: 56%;
-    padding: 20px;
-    margin: 0 0 0 30px;
+    padding: 2%;
+    margin: 0;
 }
 
 img.article_img{
@@ -64,8 +64,7 @@ img.post_img{
     padding:2%;
     background-color: #FFC675;
     border: 1px black solid;
-    padding: 20px;
-    margin: 0 20px 0 30;
+    margin: 0;
 }
 
 

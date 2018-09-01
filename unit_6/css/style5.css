@@ -56,12 +56,12 @@ body{
 }
 
 img.article_img{
-    height: 50px;
+    height: 30px;
     width: 0.5em;
 }
 
 #profile {
-    float:right;
+    float: right;
     font-size: 14px;
     width: 240px;
     background-color: #FFC675;

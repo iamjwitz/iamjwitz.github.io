@@ -18,10 +18,6 @@ nav a{
     padding: 20px;
 }
 
-a.hover{
-    background-color: #aaaaaa;
-
-}
 
 .clearfix:after: {
     visibility: hidden;
@@ -30,6 +26,11 @@ a.hover{
     clear: both;
     height: 0;
     font-size: 0;
+}
+
+a.hover{
+    background-color: #aaaaaa;
+
 }
 
 header {

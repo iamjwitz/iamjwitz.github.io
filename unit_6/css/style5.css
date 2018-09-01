@@ -52,12 +52,12 @@ body{
 
 img.article_img{
     width: 25%;
-    height: 0.5em;
+    height: auto;
 }
 
 img.post_img{
     width: 25%;
-    height: 0.5em;
+    height: auto;
 
 }
 

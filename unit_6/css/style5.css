@@ -25,10 +25,10 @@ nav a.hover{
 .clearfix:after: {
     visibility: hidden;
     display: block;
-    content: "";
+    content: " ";
     clear: both;
     height: 0;
-    font-size: 0;
+  
 }
 
 
@@ -46,24 +46,45 @@ body{
     font-family: 'Crimson Text', serif;
 }
 
-#profile, #about{
-    background-color: #FFC675;
+#article1 {
+    float:left;
+    background-color: #E89C6C;
     border: 1px black solid;
+    width: 560px;
     padding: 20px;
+    margin: 0 0 0 30px;
 }
-
 
 img.article_img{
     height: 100px;
-    width: 150px;
+    width: 50%;
 }
 
-#article1 {
-    background-color: #E89C6C;
+#profile {
+    float:right;
+    font-size: 14px;
+    width: 240px;
+    background-color: #FFC675;
     border: 1px black solid;
     padding: 20px;
-    float:left;
+    margin: 0 20px 0 30;
 }
+
+.clearfix:after {
+visibility: hidden;
+    display: block;
+    content: " ";
+    clear: both;
+    height: 0;
+
+
+
+}
+
+
+
+
+
 
 
 footer {

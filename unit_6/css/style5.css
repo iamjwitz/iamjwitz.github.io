@@ -2,16 +2,45 @@
 @import url(https://fonts.googleapis.com/css?family=Crimson+Text);
 
 
+
+
+nav {
+    background-color: #aaaaaa;
+    font-family: 'Crimson Text', serif;
+    }
+
+a{
+    background-color: #89C3B6;
+    color: white;
+    display: block;
+    float: left;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+a.hover{
+    background-color: #aaaaaa;
+
+}
+
+.clearfix:after: {
+    visibility: hidden;
+    display: block;
+    content: "";
+    clear: both;
+    height: 0;
+    font-size: 0;
+}
+
 header {
+    font-family: 'Berkshire Swash', cursive;
     background-color: #FFED74;
     border: 1px black solid;
     padding: 20px;
 }
 
-nav {
-    background-color: #E8C66A;
-    border: 1px black solid;
-    padding: 20px;
+body{
+    font-family: 'Crimson Text', serif;
 }
 
 #profile, #about{

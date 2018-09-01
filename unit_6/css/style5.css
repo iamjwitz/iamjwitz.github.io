@@ -25,7 +25,6 @@ nav a:hover{
 
 
 
-
 header {
     font-family: 'Berkshire Swash', cursive;
     text-align: center;
@@ -37,11 +36,14 @@ header {
 body{
     font-family: 'Crimson Text', serif;
 }
+.topsection{
+    border: 1px black solid;
+    padding: 20px;
+}
 
 #article1 {
     float:left;
     background-color: #E89C6C;
-    border: 1px black solid;
     width: 56%;
     padding: 2%;
     margin: 0;
@@ -53,7 +55,8 @@ img.article_img{
 }
 
 img.post_img{
-
+    width: 25%;
+    height: 0.5em;
 
 }
 
@@ -62,8 +65,6 @@ img.post_img{
     font-size: 14px;
     width: 36%;
     padding:2%;
-    background-color: #FFC675;
-    border: 1px black solid;
     margin: 0;
 }
 
@@ -103,7 +104,7 @@ footer {
 }
 
 
-.wrapper, {
+.wrapper {
     background-color: #FFE2B8;
     border: 1px black solid;
     padding: 20px;

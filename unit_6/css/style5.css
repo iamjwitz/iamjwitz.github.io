@@ -38,15 +38,16 @@ body{
     font-family: 'Crimson Text', serif;
 }
 
-#topsection{
-    background-color: #89C3B6;
+#topsection{    
+    background-color: #FFB7CF;
     border: 1px black solid;
-    margin: 2%;
+    padding: 20px;
 }
 
 #article1{
+    background-color: #E582A2;
     float:left;
-    width: 60%;
+    width: 62%;
     padding: 2%;
     margin: 0;
 
@@ -60,7 +61,7 @@ img.article_img{
 #about {
     float: right;
     font-size: 14px;
-    width: 25%;
+    width: 30%;
     padding: 2%;
     margin: 0;
     background-color: rgba(150,215,200, 0.4);
@@ -84,19 +85,19 @@ img.post_img{
 }
 
 #post1 {
-  background-color: #AC54FF;
+  background-color: #61C395;
 }
 
 #post2 {
-  background-color: #5485FF;
+  background-color: #3FC3BD;
 }
 
 #post3 {
-  background-color: #47FFF2;
+  background-color: #21C39E;
 }
 
 #post4{
-    background-color: #5485FF;
+    background-color: #43C387;
 }
 
 

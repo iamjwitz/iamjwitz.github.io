@@ -18,18 +18,10 @@ nav a{
     padding: 20px;
 }
 
-nav a.hover{
+nav a:hover{
     background-color: #aaaaaa;
 }
 
-.clearfix:after: {
-    visibility: hidden;
-    display: block;
-    content: " ";
-    clear: both;
-    height: 0;
-  
-}
 
 
 
@@ -77,12 +69,32 @@ visibility: hidden;
     clear: both;
     height: 0;
 
-
-
 }
 
 
+.postsnippet {
+    float: left;
+    width: 260px;
+    height: 300px;
+    padding: 20px;
+    margin: 0;
+}
 
+#column1 {
+  background-color: #AC54FF;
+}
+
+#column2 {
+  background-color: #5485FF;
+}
+
+#column3 {
+  background-color: #47FFF2;
+}
+
+#column4{
+    background-color: #5485FF;
+}
 
 
 
@@ -94,7 +106,8 @@ footer {
 }
 
 
-.wrapper, .postsnippet {
+
+.wrapper, {
     background-color: #FFE2B8;
     border: 1px black solid;
     padding: 20px;
@@ -109,3 +122,11 @@ section a{
     padding: 20px;
 }
 
+.clearfix:after: {
+    visibility: hidden;
+    display: block;
+    content: " ";
+    clear: both;
+    height: 0;
+  
+}

@@ -36,7 +36,8 @@ header {
 body{
     font-family: 'Crimson Text', serif;
 }
-.topsection{
+
+#topsection{
     border: 1px black solid;
     padding: 20px;
 }
@@ -121,11 +122,11 @@ section a{
 }
 
 
-.clearfix:after: {
-    visibility: hidden;
-    display: block;
-    content: " ";
-    clear: both;
-    height: 0;
-  
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
 }

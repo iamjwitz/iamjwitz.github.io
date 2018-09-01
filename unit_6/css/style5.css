@@ -1,0 +1,51 @@
+@import url(https://fonts.googleapis.com/css?family=Berkshire+Swash);
+@import url(https://fonts.googleapis.com/css?family=Crimson+Text);
+
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#profile, #about{
+    background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
+img.article_img{
+    height: 100px;
+    width: 150px;
+}
+
+#article1 {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+    float:left;
+}
+
+
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
+.wrapper, .postsnippet {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
+

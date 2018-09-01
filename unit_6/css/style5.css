@@ -28,7 +28,7 @@ nav a:hover{
 header {
     font-family: 'Berkshire Swash', cursive;
     text-align: center;
-    background-color: #FFED74;
+    background-color: rgba(150,215,200, 0.4);
     border: 1px black solid;
     padding: 20px;
 }
@@ -51,12 +51,12 @@ body{
 }
 
 img.article_img{
-    width: 25%;
+    width: 50%;
     height: auto;
 }
 
 img.post_img{
-    width: 25%;
+    width: 50%;
     height: auto;
 
 }
@@ -65,7 +65,7 @@ img.post_img{
     float: right;
     font-size: 14px;
     width: 36%;
-    padding:2%;
+    padding: 2%;
     margin: 0;
 }
 
@@ -73,9 +73,8 @@ img.post_img{
 
 .postsnippet {
     float: left;
-    width: 100px;
-    height: 300px;
-    padding: 20px;
+    width: 23%;
+    padding: 2%;
     margin: 0;
 }
 

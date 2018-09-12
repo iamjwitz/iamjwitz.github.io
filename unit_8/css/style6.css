@@ -53,6 +53,10 @@ body{
 
 }
 
+h2.article1{
+    width: 40%;
+}
+
 img.article_img{
   width: 40%;
   margin: 0.1;

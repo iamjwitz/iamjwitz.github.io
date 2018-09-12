@@ -69,6 +69,7 @@ img.article_img{
     padding: 2%;
     margin: 0;
     background-color: rgba(150,215,200, 0.4);
+    height: auto;
 }
 
 

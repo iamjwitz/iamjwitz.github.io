@@ -50,7 +50,7 @@ body{
 }
 
 img.article_img{
-  width: 40%;
+  width: 30%;
   margin: 0.1;
   float: left;
 }
@@ -58,7 +58,7 @@ img.article_img{
 
 
 #flounder{
-    float: right;
+    float: left;
 }
 
 

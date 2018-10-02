@@ -43,14 +43,14 @@ body{
 #article1, #normalpost{
     background-color: #42C3B1;
     float:left;
-    width: 60%;
+    width: 55%;
     padding: 2%;
     margin: 0;
 
 }
 
 img.article_img{
-  width: 30%;
+  width: 35%;
   margin: 0.1;
   float: left;
 }
@@ -80,7 +80,7 @@ img.post_img{
 }
 
 #jwitz{
-    text-align: center;
+    text-align: left;
 }
 
 img.post_img{

@@ -95,19 +95,19 @@ img.post_img{
 }
 
 #post1, #frankly {
-  background-color: #61C395;
+  background-color: rgba(49,184,166,.2);
 }
 
 #post2 {
-  background-color: #3FC3BD;
+  background-color: #31B8A6;
 }
 
 #post3 {
-  background-color: #21C39E;
+  background-color: rgba(49,184,166,.2);
 }
 
 #post4{
-    background-color: #43C387;
+    background-color: #31B8A6;
 }
 
 
@@ -121,7 +121,7 @@ footer {
 
 
 
-section a{
+section a, article a{
     background-color: #89C3B6;
     color: white;
     display: block;

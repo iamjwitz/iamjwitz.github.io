@@ -52,7 +52,7 @@ body{
 img.article_img{
   width: 40%;
   margin: 0.1;
-  float: right;
+  float: left;
 }
 
 h2.article1{
@@ -61,7 +61,7 @@ h2.article1{
 }
 
 #flounder{
-    float: left;
+    float: right;
 }
 
 

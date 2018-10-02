@@ -65,7 +65,7 @@ img.post_img{
 
 
 footer {
-    background-color: #89C3B6;
+    background-color: #82CFC1;
     border: 1px black solid;
     padding: 20px;
 }
@@ -96,6 +96,7 @@ section a:hover{
 body{
     background-color: #aaaaaa;
 }
+
 
 .clearfix:after {
   visibility: hidden;

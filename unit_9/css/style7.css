@@ -55,10 +55,7 @@ img.article_img{
   float: left;
 }
 
-h2.article1{
-    width: 40%;
-    float: right;
-}
+
 
 #flounder{
     float: right;
@@ -75,6 +72,8 @@ h2.article1{
     background-color: #89C3B6;
     height: auto;
 }
+
+
  #moreabout{
     background-color: #aaaaaa;
     font-size: 16px;
@@ -96,7 +95,7 @@ img.post_img{
     border: .5px black solid;
 }
 
-#post1, #frankly {
+#post1 {
   background-color: rgba(49,184,166,.2);
 }
 
@@ -117,9 +116,11 @@ img.post_img{
     padding: 2%;
     margin: 0;
     border: .5px black solid;
+    background-color: rgba(49,184,166,.2);
 }
 
 
+}
 footer {
     background-color: #82CFC1;
     border: 1px black solid;

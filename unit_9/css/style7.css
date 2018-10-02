@@ -40,10 +40,10 @@ body{
 
 
 
-#article1{
+#article1, #normalpost{
     background-color: #42C3B1;
     float:left;
-    width: 62%;
+    width: 60%;
     padding: 2%;
     margin: 0;
 
@@ -55,7 +55,11 @@ img.article_img{
   float: left;
 }
 
-
+img.post_img{
+  width: 30%;
+  margin: 0.1;
+  float: left;
+}
 
 #flounder,#intropost{
     float: left;
@@ -75,11 +79,9 @@ img.article_img{
     height: auto;
 }
 
-
- #moreabout{
-    background-color: #aaaaaa;
-    font-size: 16px;
- }
+#jwitz{
+    text-align: right;
+}
 
 img.post_img{
     width: 50%;
@@ -113,16 +115,10 @@ img.post_img{
     background-color: #31B8A6;
 }
 
-#normalpost {
-    float: left;
-    padding: 2%;
-    margin: 0;
-    border: .5px black solid;
-    background-color: rgba(49,184,166,.2);
-}
 
 
-}
+
+
 footer {
     background-color: #82CFC1;
     border: 1px black solid;

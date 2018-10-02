@@ -30,7 +30,7 @@ header {
     font-family: 'Berkshire Swash', cursive;
     text-align: center;
     background-color: #89C3B6;
-
+    border: 1px black solid;
     padding: 10px;
 }
 
@@ -137,9 +137,13 @@ section a:hover{
 }
 
 .wrapper {
-    background-color: #aaaaaa;
+    background-color: #89C3B6;
     border: 1px black solid;
     padding: 20px;
+}
+
+body{
+    background-color: #aaaaaa;
 }
 
 .clearfix:after {

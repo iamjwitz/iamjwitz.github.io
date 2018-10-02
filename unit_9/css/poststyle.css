@@ -15,7 +15,7 @@ nav a{
     display: block;
     float: left;
     border: 1px black solid;
-    padding: 20px;
+    padding: 10px;
     text-decoration: none;
 }
 
@@ -39,33 +39,6 @@ body{
 }
 
 
-
-#article1{
-    background-color: #42C3B1;
-    float:left;
-    width: 62%;
-    padding: 2%;
-    margin: 0;
-
-}
-
-img.article_img{
-  width: 40%;
-  margin: 0.1;
-  float: left;
-}
-
-h2.article1{
-    width: 40%;
-    float: right;
-}
-
-#flounder{
-    float: right;
-}
-
-
-
 #about {
     float: right;
     font-size: 14px;
@@ -75,50 +48,31 @@ h2.article1{
     background-color: #89C3B6;
     height: auto;
 }
- #moreabout{
-    background-color: #aaaaaa;
-    font-size: 16px;
- }
+
+
+#normalpost{
+    background-color: #42C3B1;
+    float:left;
+    width: 62%;
+    padding: 5%;
+    margin: 5%;
+
+}
 
 img.post_img{
-    width: 50%;
-    height: auto;
-
-}
-
-
-
-.postsnippet {
-    float: left;
-    width: 20%;
-    padding: 2%;
-    margin: 0;
-    border: .5px black solid;
-}
-
-#post1, #frankly {
-  background-color: rgba(49,184,166,.2);
-}
-
-#post2 {
-  background-color: #31B8A6;
-}
-
-#post3 {
-  background-color: rgba(49,184,166,.2);
-}
-
-#post4{
-    background-color: #31B8A6;
+  width: 30%;
+  margin: 0.1;
+  float: left;
 }
 
 
 
 
+}
 footer {
     background-color: #82CFC1;
     border: 1px black solid;
-    padding: 20px;
+    padding: 10px;
 }
 
 

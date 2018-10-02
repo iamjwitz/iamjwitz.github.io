@@ -57,11 +57,13 @@ img.article_img{
 
 
 
-#flounder{
+#flounder,#intropost{
     float: left;
 }
 
-
+#intropost{
+    text-align: left;
+}
 
 #about {
     float: right;

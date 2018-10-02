@@ -135,8 +135,11 @@ section a, article a{
 }
 
 section a:hover{
-    background-color: #aaaaaa;
+    background-color: #AEA5AA;
+}
 
+article a:hover{
+    background-color: #aaaaaa;
 }
 
 .wrapper {

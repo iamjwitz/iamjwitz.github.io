@@ -5,18 +5,18 @@
 
 
 nav {
-    background-color: #aaaaaa;
+    background-color: #82CFC1;
     font-family: 'Crimson Text', serif;
     }
 
 nav a{
-    background-color: #89C3B6;
+    background-color: #82CFC1;
     color: white;
     display: block;
     float: left;
     border: 1px black solid;
     padding: 20px;
-    text-decoration: none;;
+    text-decoration: none;
 }
 
 nav a:hover{
@@ -52,6 +52,7 @@ body{
 img.article_img{
   width: 40%;
   margin: 0.1;
+  float: right;
 }
 
 h2.article1{
@@ -115,7 +116,7 @@ img.post_img{
 
 
 footer {
-    background-color: #89C3B6;
+    background-color: #82CFC1;
     border: 1px black solid;
     padding: 20px;
 }
